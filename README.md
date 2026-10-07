@@ -24,3 +24,7 @@ Desde marzo de 2026. Aproximadamente **cuatro implementaciones activas en negoci
 
 - [Portafolio de Lehi Salvador](https://github.com/LehiSalvador)
 - [Salva Systems](https://salvasystems.site)
+
+## Documentación de producto
+
+[Contexto y alcance](docs/overview.md) · [Hoja de ruta pública](docs/roadmap.md)
