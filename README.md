@@ -28,3 +28,7 @@ Desde marzo de 2026. Aproximadamente **cuatro implementaciones activas en negoci
 ## Documentación de producto
 
 [Contexto y alcance](docs/overview.md) · [Hoja de ruta pública](docs/roadmap.md)
+
+## Contribuir
+
+[Guía de contribución](CONTRIBUTING.md). La validación automática revisa documentos locales; los cambios de producto y datos privados se coordinan por separado.
